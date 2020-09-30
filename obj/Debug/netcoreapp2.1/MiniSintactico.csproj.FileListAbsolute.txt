@@ -1,0 +1,11 @@
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\bin\Debug\netcoreapp2.1\MiniSintactico.deps.json
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\bin\Debug\netcoreapp2.1\MiniSintactico.runtimeconfig.json
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\bin\Debug\netcoreapp2.1\MiniSintactico.runtimeconfig.dev.json
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\bin\Debug\netcoreapp2.1\MiniSintactico.dll
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\bin\Debug\netcoreapp2.1\MiniSintactico.pdb
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\obj\Debug\netcoreapp2.1\MiniSintactico.csprojAssemblyReference.cache
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\obj\Debug\netcoreapp2.1\MiniSintactico.csproj.CoreCompileInputs.cache
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\obj\Debug\netcoreapp2.1\MiniSintactico.AssemblyInfoInputs.cache
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\obj\Debug\netcoreapp2.1\MiniSintactico.AssemblyInfo.cs
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\obj\Debug\netcoreapp2.1\MiniSintactico.dll
+C:\Users\TARASCOS\Desktop\C#\Sem Traductores 2\MiniAnalizadorSintáctico\MiniSintactico\obj\Debug\netcoreapp2.1\MiniSintactico.pdb
